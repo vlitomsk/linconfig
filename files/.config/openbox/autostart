@@ -1,0 +1,6 @@
+setxkbmap us,ru -option "" -option "grp:shifts_toggle" &
+nm-applet &
+pypanel &
+feh --bg-center ~/pics/fabric2.jpg &
+conky &
+tilda &

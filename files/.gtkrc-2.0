@@ -1,0 +1,5 @@
+gtk-can-change-accels = 1
+
+gtk-theme-name = "MediterraneanDarkest"
+gtk-icon-theme-name = "Faenza-Dark"
+gtk-font-name = "Ubuntu Medium 10"
