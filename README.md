@@ -5,6 +5,7 @@ rcconf - "автоматизированный" update-rc.d, чтобы выби
 Убрать все из ~/.config/autostart и /etc/xdg/autostart (там обычно находится мусор от GNOME)
 pypanel, conky, gmrun, tilda, feh
 lm-sensors, hddtemp
+volumeicon - апплет регулятора громкости
 Тема иконок Faenza-Dark, GTK2,3 - Mediterranean-Darkest 
 Сглаживание шрифтов включать в ~/.Xresources
 Конфиги тут.
